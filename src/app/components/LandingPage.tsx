@@ -104,7 +104,7 @@ export function LandingPage({ onGetStarted, onLogin }: LandingPageProps) {
                 </div>
                 <div className="flex items-center gap-2">
                   <Users className="w-5 h-5 text-[#26A69A]" />
-                  <span className="text-sm text-gray-600">50K+ Users</span>
+                  <span className="text-sm text-red-600 font-bold">24/7 Available Service</span>
                 </div>
               </div>
             </motion.div>
